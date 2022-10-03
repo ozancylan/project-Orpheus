@@ -21,8 +21,7 @@ Kullandığım teknolojiler;
 Yardım aldığım web sayfaları;
  >[Colorhunt](colorhunt.co)
 
- >[Patika.dev Bootstrap](https://app.patika.dev/courses/
-bootstrap/odev1)
+ >[Patika.dev Bootstrap](https://app.patika.dev/courses/bootstrap/odev1)
 
 
 
