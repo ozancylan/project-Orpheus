@@ -11,7 +11,7 @@ Bootstrap konusu kapsamında yaptım.
 <sub>Satın alma buttonları çalışmamaktadır.</sub>
 
 
->[Proje linki](https://github.com/ozancylan/project-Orpheus.git)
+>[Proje linki](https://ozancylan.github.io/project-Orpheus/)
 
 Kullandığım teknolojiler;
 * HTML5
